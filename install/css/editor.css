@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Roboto regular';
+    src: url('/bitrix/fonts/askron.unicon/RobotoMono-Regular.ttf') format('truetype');
+}
+#text {
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+    min-height: 300px;
+    font-family: 'Roboto regular';
+    font-size: 10pt;
+    background-color: white;
+}

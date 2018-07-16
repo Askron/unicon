@@ -1,0 +1,8 @@
+<?
+$MESS['ASKRON_UNICON_MODULE_NAME'] = 'Unicon';
+$MESS['ASKRON_UNICON_MODULE_DESCRIPTION'] = 'Универсальный конструктор.';
+$MESS['ASKRON_UNICON_PARTNER_NAME'] = 'Askron';
+$MESS['ASKRON_UNICON_PARTNER_URI'] = 'none';
+$MESS['ASKRON_UNICON_INSTALL_TITLE'] = 'Установка Unicon';
+$MESS['ASKRON_UNICON_INSTALL_UNTITLE'] = 'Удаление Unicon';
+?>
